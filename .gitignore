@@ -2,3 +2,8 @@ env/
 __pycache__/
 *.pyc
 data/
+
+mlruns/
+mlflow.db
+artifacts/
+catboost_info/
