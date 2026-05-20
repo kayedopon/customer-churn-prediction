@@ -5,3 +5,5 @@ seaborn
 scikit-learn
 xgboost
 catboost
+fastapi
+uvicorn
